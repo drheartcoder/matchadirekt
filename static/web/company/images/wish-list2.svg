@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="20.308" viewBox="0 0 22 20.308">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.907" y1="0.075" x2="0.356" y2="0.887" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ba6df"/>
+      <stop offset="1" stop-color="#1ba6df"/>
+    </linearGradient>
+  </defs>
+  <g id="iconfinder_icon-heart_211673" transform="translate(-47.976 -63.929)">
+    <path id="Path_132" data-name="Path 132" d="M68.171,65.6a5.322,5.322,0,0,0-7.742,0l-1.454,1.511L57.522,65.6a5.322,5.322,0,0,0-7.742,0,6.593,6.593,0,0,0,0,9.064l9.2,9.574,9.2-9.572a6.593,6.593,0,0,0,0-9.064Z" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

@@ -1,0 +1,66 @@
+/*----------Responsive Css Start----------*/
+@media only screen and (min-width : 992px) and (max-width :1169px) {
+
+    .h5,
+    h6 {
+        font-size: 20px;
+    }
+    .form-control {
+    font-size: 20px;
+    line-height: 40px;
+    height: 40px !important;
+}
+}
+
+@media only screen and (min-width : 768px) and (max-width :991px) {
+
+    .h5,
+    h6 {
+        font-size: 20px;
+    }
+    .form-control {
+    font-size: 20px;
+    line-height: 40px;
+    height: 40px !important;
+}
+}
+
+@media only screen and (max-width : 767px) {
+    .container {
+        max-width: 100%;
+    }
+
+    .main-container{ width: 100%; background-color: transparent; }
+    .top-header h2{ font-size: 16px; }
+    .notification-list li a {
+    width: 20px; }
+    .fixed-bottom{ display: block; position: fixed; }
+ 
+    .tiles-ul [class^="tiles-li-"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 95px);
+}
+
+}
+
+@media only screen and (min-width : 412px) and (max-width : 767px) {
+    .h5,
+    h6 {
+        font-size: 20px;
+    }
+    .form-control {
+    font-size: 18px;
+    line-height: 40px;
+    height: 40px !important;
+}
+}
+
+@media only screen and (min-width : 576px) and (max-width : 767px) {
+    .test
+
+}
+
+/*----------Responsive Css End----------*/

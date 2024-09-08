@@ -1,0 +1,154 @@
+Close: Stäng
+Login: Logga in
+Logout: Logga ut
+Welcome: Välkommen
+Find: Hitta
+Jobs:Jobb
+Change Website Language: Byt språk på hemsidan
+My Dashboard: Min instrumentbräda
+Search Resume: Sök CV
+Contact Us: Kontakta oss
+Search Jobs: Sök jobb
+Search a Job: söka jobb
+About Us: Om oss
+Post a Job: Annonsera ett jobb
+Job Seeker: Arbetssökande
+One million success stories: En miljon framgångsberättelser
+Start yours today: Börja ditt idag
+Select City: Välj stad
+Get Started Now: Börja nu
+Post a Job: Annonsera ett jobb
+New Company Get Started: Nytt företag kommer igång
+USA jobs: USA jobb
+Search Resume with Skill or Job Title: Sök CV med skicklighet eller jobbtitel
+Job title or Skill: Jobbtitel eller skicklighet
+job search engine USA: Sökmotor för jobb USA
+Upload your resume: Ladda upp ditt CV
+Upload Resume: Ladda upp CV
+Top Companies:Bästa företag
+Latest Jobs: Senaste jobb
+Featured Jobs: Utvalda jobb
+Top Cities: Toppstäder
+Last Apply In: Sista ansökningsdag
+BiXma is the best job search engine: Bixma är den bästa jobbsökmotorn
+How to get Job: Hur får man ett jobb
+New Job Openings: Nya jobböppningar
+Resume Search: Återuppta sökning
+Popular Industries: Populära industrier
+Jobs in: Lediga jobb
+Preparing for Interview: förbereder inför arbetsintervju
+CV Writing: Att skriva CV
+Policy: Riktlinje
+City: Stad
+Job Title: Jobbtitel
+Salary Range: Löneintervall
+Dashboard: Instrumentbräda
+Company Profile: Företsgprofil
+Post New Job: Annonsera nytt jobb
+Manage My Jobs: Hantera mina jobbview 
+View Candidates: Visa kandidater
+Chat with Candidates: Chatta med kandidater
+Calendar: Kalender
+Password Change: lösenordsändring
+Update Company Profile: Uppdatera företagsprofil
+Company Name: Företagsnamn
+Company Email: Företags email
+CEO Name: VDs namn
+Company Website: företagshemsida
+Industry: Industri
+Established In: Etablerad i
+Mobile Number: Mobilnummer
+No. Of Offices: Antal kontor
+No. Of Employees: Antal anställda
+Company Address: Företagsadress 
+Company Logo: Företagslogotyp
+Update: Uppdatera
+Update Company Info: Uppdatera företagsinformation
+About Company: Om företaget
+Edit Posted Job: Redigera upplagd jobb
+Change Password: Ändra lösenord
+Old Password: Gammalt lösenord
+New Password: Nytt lösenord
+Confirm Password: Bekräfta lösenord
+Chat: Chatta
+Nothing to Show: Inget att visa
+Last Login: Senaste inloggning
+Chat with: Chatta med
+already: Redan
+messages: Meddelanden
+Send: Skicka
+Type your message: Skriv ditt meddelande
+Company Information: Företagsinformation
+Your Name: Ditt namn
+Select Industry: Välj industri
+Private: Privat
+Public: Offentlig
+Government: Statlig
+Semi-Government: Andra-offentlig
+Address: Adress
+Location: Plats
+Landline Phone: Fast elefon
+Cell Phone: Mobiltelefon
+Company Description: Företagsbeskrivning
+Delete Logo: Ta bort logotypen
+Upload Logo: Ladda upp logotypen
+Personal Information: Personlig information
+Full Name: Fullständig namn
+Date of Birth: Födelsedatum
+Day: Dag
+Month: Månad
+Year: År
+Mobile Phone: Mobiltelefon
+Home Phone: Hemtelefon
+Category: Kategori
+No.of Vacancies: Antal lediga platser
+Experience Required: Erfarenhet krävs
+Fresh: Ny
+Less than 1 year: Mindre än ett år
+Full Time: Heltid
+Part Time: Halvtid
+Home Based: Put instead Övrigt
+Salary Offer(Pk Rs.):Lön erbjudande
+Apply Before: Ansök innan
+Qualification: Kvalifikation
+Select Qualification: Välj kvalifikation
+Job Description: Arbetsbeskrivning
+Quizz Text: Frågor
+Leave it blank if this job don\'t need a Quizz: Lämna det tomt om det här jobbet inte behöver en fråga
+Answer: Svar
+Required Skills: Nödvändiga färdigheter
+Add Skill: Lägg till en färdighet
+Single skill at a time: En färdighet i taget
+Contact Information: Kontaktinformation
+Contact Person: Kontaktperson
+Phone: Telefon
+Email: E-post
+Advertise: Annonsera
+Download: Ladda ner
+Edit Advertise: Redigera annons
+didn\'t match any item: Ingen träff
+Current Openings: Nuvarande öppningar
+Staff Members: Personal
+Edit Company Profile: Redigera företagsprofil
+Edit: Redigera
+Job Applications Received: Jobbansökningar är mottagna
+View All: Visa alla
+No record found: Hittade inget
+Post a New Job: Annonsera ett nytt jobb
+Pending Review: Väntar på granskning
+No job posted: Inga publicerade jobb
+Invalid file provided: Ogiltig fil
+Candidate Name: Kandidatens namn
+Applied Date: Tillämpat datum
+Actions:Handlinga
+Add: Lägg till
+Add Event with this Candidate: Lägg till händelse med den här kandidaten
+Say something: Säg något
+Minute: minut
+Hour: Timme
+Date: Datum
+Withdrawn: Annullera
+All Posted Jobs: Alla upplagda jobb
+Job Mode:Jobbläge
+in thousands: I tusental
+Please choose the set of skills (Individually) you are looking to hireIndividually) you are looking to hire',: 

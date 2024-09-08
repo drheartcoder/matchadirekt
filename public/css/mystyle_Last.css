@@ -1,0 +1,61 @@
+@media (max-width: 700px) {
+      .div_hide_me {
+          display: none!important;
+        }
+     
+      .candidatesection h1{
+        font-size: 28px;
+      }
+    .li_job .intlist{
+        box-shadow: 0 0 5px rgba(55,133,179,0.5);border: 1px solid #3785b3;
+    }
+    .titlebar_app{font-family: 'Open Sans', 'sans-serif'; border-bottom:1px solid #cdcdcd; padding: 10px 15px; font-weight:bold; color:#fff;
+    background:#3785b3;width: 100%;}
+    .titlebar_app h2{font-size: 16px}
+     #back_arrow{position: fixed;top: 90px;left: 5px;z-index: 2000;background-color: white;font-size: 22px;border: 1px solid #3785b3;
+    box-shadow: 0 0 10px  rgba(0,0,0,0.7);border-radius: 50%;padding-top: 4px;padding-right: 1px;color: #3785b3;max-height: 40px;max-width: 40px;min-height: 40px;min-width: 40px;text-align: center;display: block;}
+    #close_menu{position: fixed;top: 10px;right: 5px;z-index: 2001;background-color: white;font-size: 22px;border: 1px solid #3785b3;
+    box-shadow: 0 0 10px  rgba(0,0,0,0.7);border-radius: 50%;padding-top: 4px;padding-right: 1px;color: #3785b3;max-height: 40px;max-width: 40px;min-height: 40px;min-width: 40px;text-align: center;display: none;font-weight: bold;}
+    .search_resume_app{
+        margin-top: -15px;
+        padding: 15px;
+    }
+    .title_search_resume_app{
+        #margin-bottom: -10px!important;
+    }
+    .search_resume_vp_app{
+        position: absolute;top: 16px;right:2px;
+    }
+    .search_resume_intlist_app{
+         box-shadow: 0 0 5px rgba(55,133,179,0.5);
+        padding-top: 5px;padding-bottom: 5px;
+    }
+    .search_resume_intlist_app img{
+        float: left;
+    }
+    .search_resume_vp_app a{box-shadow: 0 0 10px  rgba(0,0,0,0.7);}
+    
+    
+    .text-right_app{text-align: center;}
+   .captcha img{margin: 20px 10px 5px 10px;}
+    .captcha{white-space: pre-wrap;}
+    .searchlist_app{
+        box-shadow: 0 0 5px rgba(55,133,179,0.5);
+        padding-top: 5px;padding-bottom: 5px;
+        margin-top: 10px;
+    }
+    .pull-right_app{
+        position: absolute;top: -40px;
+    right: -40px;
+    }
+    .date_app{
+        margin-left: -30px!important;
+    }
+    .titlebar_app{margin-bottom: -10px;}
+    .edit-ico_app i{color:#3785b3;background-color: white;box-shadow: 0 0 5px  rgba(0,0,0,0.5);padding: 5px;border-radius: 50%;margin-top:    1px;margin-left: -35px;position: absolute;}
+    .preview_app{margin-top: 10px;}
+    }
+
+.titlebar_a{text-decoration: none;color: white!important;}
+.search_resume_vp_app a i{color:#3785b3;background-color: white;box-shadow: 0 0 5px  rgba(0,0,0,0.5);padding: 5px;border-radius: 50%;margin-top: 0px;margin-left: -11px;position: absolute;}
+

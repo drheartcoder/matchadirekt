@@ -1,0 +1,25 @@
+/*----------Responsive Css Start----------*/
+@media only screen and (min-width : 992px) and (max-width :1169px){
+
+
+}
+
+@media only screen and (min-width : 768px) and (max-width :991px){
+
+
+}
+
+@media only screen and (max-width : 767px){
+.container {
+    max-width: 100%;
+}
+}
+
+@media only screen and (min-width : 412px) and (max-width : 767px){
+
+}
+
+@media only screen and (min-width : 576px) and (max-width : 767px){
+
+}
+/*----------Responsive Css End----------*/

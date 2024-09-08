@@ -1,0 +1,33 @@
+create table Specialite(IdSpecialite int primary key,
+NomSpe varchar(20),
+Niveau varchar(20)
+)
+
+
+create table Classe(IdClasse int primary key,
+NomClasse varchar(20),
+Annee date,
+IdSpecialite int references Specialite(IdSpecialite))
+
+create table Matiere(
+IdMatiere int primary key,
+NomMat varchar(20),
+ObjectMat varchar(20),
+Mh int,
+IdSpecialite int references Specialite(IdSpecialite))
+
+
+create table EnseignantVacataire(
+IdEv int primary key,NomEV varchar(20),
+PrenomEv varchar(20),
+Nheure int,
+PrixHeure float,
+MotDePasse varchar(20))
+
+
+create table Affectation(
+idAffectation int primary key,DateAff date,NbrHeure int ,
+IdSpecialite int references Specialite(IdSpecialite),
+IdEv int references EnseignantVacataire(IdEv),
+IdMatiere int references Matiere(IdMatiere)
+)

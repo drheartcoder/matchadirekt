@@ -1,0 +1,66 @@
+/*----------Responsive Css Start----------*/
+@media only screen and (min-width : 992px) and (max-width :1169px) {
+
+    ul.setting-nav li a {
+        font-size: 17px
+    }
+
+    .setting-nav2 li {
+        width: 50%;
+    }
+
+
+
+}
+
+@media only screen and (min-width : 768px) and (max-width :991px) {
+
+    .web-sidebar {
+    width: 315px;
+
+}
+
+.main-container {
+  
+    width: calc(100% - 315px);
+   
+}
+
+    .main-msg-block {
+        padding: 0px 10px;
+    }
+
+.msg-container{ font-size: 14px; line-height: 18px; }
+
+    .top-header h2 {
+        font-size: 20px;
+    }
+
+    .messages-list2 li {
+        width: 100%;
+
+    }
+
+    .setting-nav2 li {
+        width: 50%;
+    }
+
+    ul.half-w li {
+        width: 100%;
+    }
+
+
+}
+
+@media only screen and (max-width : 767px) {
+    .container {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (min-width : 412px) and (max-width : 767px) {}
+
+@media only screen and (min-width : 576px) and (max-width : 767px) {}
+
+/*----------Responsive Css End----------*/
+}

@@ -1,0 +1,13 @@
+6c6
+< -- Generation Time: Jan 20, 2019 at 03:24 PM
+---
+> -- Generation Time: Jan 20, 2019 at 03:28 PM
+10650c10650
+< ) ENGINE=InnoDB AUTO_INCREMENT=2343 DEFAULT CHARSET=utf8;
+---
+> ) ENGINE=InnoDB AUTO_INCREMENT=2344 DEFAULT CHARSET=utf8;
+11653c11653,11654
+< (0000002342, 'Mr.', 'Beck', 'Hugo', 'Hugo', 'Beck, Hugo', '', 'M', '2342', 'dcd57c0b2f61220eb93fa398ed746b99013d6c497a025073c6b1e937a2bcd8e5', '', '', 'N', 'Full', 'Y', 004, '004', NULL, '2342@localhost', '', '', '', NULL, '', NULL, 0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL, '', '', '', '', '', '', '', '', '', '', '', NULL, '', NULL, NULL, NULL, '', '', '', '', '', '', 'Y', 'Y', 'Y', NULL, '', '', '', NULL, '', '', NULL, NULL, '', '', 'Y', 'a:0:{}');
+---
+> (0000002342, 'Mr.', 'Beck', 'Hugo', 'Hugo', 'Beck, Hugo', '', 'M', '2342', 'dcd57c0b2f61220eb93fa398ed746b99013d6c497a025073c6b1e937a2bcd8e5', '', '', 'N', 'Full', 'Y', 004, '004', NULL, '2342@localhost', '', '', '', NULL, '', NULL, 0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL, '', '', '', '', '', '', '', '', '', '', '', NULL, '', NULL, NULL, NULL, '', '', '', '', '', '', 'Y', 'Y', 'Y', NULL, '', '', '', NULL, '', '', NULL, NULL, '', '', 'Y', 'a:0:{}'),
+> (0000002343, 'Mr.', 'Student', '1', 'Student1', 'Student', '', 'M', 'Student1', '', '8a0dbb37e129e411ed7f40451494acb8c0e7dda9c2589d9c351031c393f7dfcf', 'EGHiIJlmMnNQvVwxXZ4678', 'N', 'Full', 'Y', 003, '003', NULL, '', '', NULL, '', NULL, NULL, NULL, 0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', NULL, '', '', '', '', '', '', '', '', '', '', '', NULL, '', NULL, NULL, NULL, '', '', '', '', '', '', 'Y', 'Y', 'N', NULL, '', '', '', NULL, NULL, NULL, NULL, NULL, NULL, '', 'Y', '');
